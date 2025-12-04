@@ -1,5 +1,5 @@
 ## 2026 Project List
-- [ ] Inventory Management System
+- [ x ] Inventory Management System
 - [ ] Workout App
 - [ ] UnInternet Revamp
 - [ ] Nbadle (loldle for nba)
