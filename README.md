@@ -1,5 +1,5 @@
 ## 2026 Project List
-[] Workout App
+- [] Workout App
 
 <!--
 **njiedev/njiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
