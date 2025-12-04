@@ -1,5 +1,11 @@
 ## 2026 Project List
+- [ ] Inventory Management System
 - [ ] Workout App
+- [ ] UnInternet Revamp
+- [ ] Nbadle (loldle for nba)
+- [ ] ScreenTime IOS App
+- [ ] 2D Fighting Platformer w/ sekiro combat
+- [ ] Portfolio Rebrand
 
 <!--
 **njiedev/njiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
