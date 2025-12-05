@@ -1,5 +1,5 @@
 ## 2026 Project List
-- [x] Inventory Management System
+- [x] [Inventory Management System][https://github.com/njiedev/b4pdatabase]
 - [ ] Workout App
 - [ ] UnInternet Revamp
 - [ ] Nbadle (loldle for nba)
