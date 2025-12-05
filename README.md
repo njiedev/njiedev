@@ -1,7 +1,7 @@
 ## 2026 Project List
 - [x] [Inventory Management System](https://github.com/njiedev/b4pdatabase)
-- [ ] [Portfolio Rebrand] (https://github.com/njiedev/portfolio)
-- [ ] [Nbadle] (https://github.com/njiedev/nbadle)
+- [ ] [Portfolio Rebrand](https://github.com/njiedev/portfolio)
+- [ ] [Nbadle](https://github.com/njiedev/nbadle)
 - [ ] Workout App
 - [ ] UnInternet Revamp
 - [ ] ScreenTime IOS App
