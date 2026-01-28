@@ -7,7 +7,8 @@
 - [ ] Better Github(Better Canvas for github)
 - [ ] ScreenTime IOS App
 - [ ] 2D Fighting Platformer w/ sekiro combat
-
+- [ ] social imdb chart creator
+- [ ] shared calender for social events - create events etc
 
 <!--
 **njiedev/njiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
