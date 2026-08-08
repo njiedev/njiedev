@@ -1,4 +1,12 @@
-NOTE: I use Obsidian with Git in order to sync devices. Below is how many of my commits are from there.
+hi, im mohammed!
+
+currently im:
+ - thinking of starting a bci startup(can't be that hard, right?)
+ - developing [miituber](https://miituber.com/)
+ 
+ you can find me at my [website](https://3weeksbuilding.com)
+
+note: i use obsidian with git in order to sync
 <!-- OBSIDIAN-COMMITS:START -->
 ![Commits](https://img.shields.io/badge/commits-175-7C3AED)
 <!-- OBSIDIAN-COMMITS:END -->
