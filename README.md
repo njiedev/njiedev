@@ -8,5 +8,5 @@ currently im:
 
 note: i use obsidian with git in order to sync
 <!-- OBSIDIAN-COMMITS:START -->
-![Commits](https://img.shields.io/badge/commits-180-7C3AED)
+![Commits](https://img.shields.io/badge/commits-181-7C3AED)
 <!-- OBSIDIAN-COMMITS:END -->
