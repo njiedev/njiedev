@@ -7,7 +7,8 @@ currently im:
  
  you can find me at my [website](https://3weeksbuilding.com)
 
-note: i use obsidian with git in order to sync(see below)
+note: i use obsidian with git in order to sync, i have inflated commits(see below)
 <!-- OBSIDIAN-COMMITS:START -->
 ![Commits](https://img.shields.io/badge/commits-184-7C3AED)
 <!-- OBSIDIAN-COMMITS:END -->
+(ironically this also inflants my commits)
