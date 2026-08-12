@@ -6,7 +6,7 @@ currently im:
  
  you can find me at my [website](https://3weeksbuilding.com)
 
-note: i use obsidian with git in order to sync
+note: i use obsidian with git in order to sync(see below)
 <!-- OBSIDIAN-COMMITS:START -->
 ![Commits](https://img.shields.io/badge/commits-181-7C3AED)
 <!-- OBSIDIAN-COMMITS:END -->
