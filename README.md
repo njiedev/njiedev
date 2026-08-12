@@ -2,6 +2,7 @@ hi, im mohammed!
 
 currently im:
  - thinking of starting a bci startup(can't be that hard, right?)
+ - reading [The Stormlight Archive](https://www.brandonsanderson.com/pages/the-stormlight-archive-series)
  - developing [miituber](https://miituber.com/)
  
  you can find me at my [website](https://3weeksbuilding.com)
