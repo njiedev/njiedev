@@ -9,6 +9,6 @@ currently im:
 
 note: i use obsidian with git in order to sync, i have inflated commits(see below)
 <!-- OBSIDIAN-COMMITS:START -->
-![Commits](https://img.shields.io/badge/commits-184-7C3AED)
+![Commits](https://img.shields.io/badge/commits-200-7C3AED)
 <!-- OBSIDIAN-COMMITS:END -->
 (ironically this counter also inflates my commits)
