@@ -1,7 +1,6 @@
-hi, im mohammed!
+3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb3wb
 
 currently im:
- - thinking of starting a bci startup(can't be that hard, right?)
  - reading [The Stormlight Archive](https://www.brandonsanderson.com/pages/the-stormlight-archive-series)
  - developing [miituber](https://miituber.com/)
  
