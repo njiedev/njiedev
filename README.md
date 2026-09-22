@@ -1,6 +1,9 @@
 currently im:
- - reading [The Stormlight Archive](https://www.brandonsanderson.com/pages/the-stormlight-archive-series)
- - developing [miituber](https://miituber.com/)
+ - [Reading The Stormlight Archive](https://www.brandonsanderson.com/pages/the-stormlight-archive-series)
+ - [Developing Miituber](https://miituber.com/)
+ - [Building useless software](https://x.com/3weeksbuilding/status/2098094949891797235)
+
+Looking for book recs, [DM me](x.com/3weeksbuilding)
 
 ```
     #########                            #####
