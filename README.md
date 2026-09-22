@@ -3,7 +3,7 @@ currently im:
  - [Developing Miituber](https://miituber.com/)
  - [Building useless software](https://x.com/3weeksbuilding/status/2098094949891797235)
 
-Looking for book recs, [DM me](x.com/3weeksbuilding)
+Looking for book recs, [DM me](https://x.com/3weeksbuilding)
 
 ```
     #########                            #####
